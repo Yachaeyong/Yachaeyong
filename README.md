@@ -1,7 +1,7 @@
 
 - git init
 - git status
-- git add {filename}
+- git add filename
 - git commit -m "commit message"
 
 - git config --global user.email "~@.com"
